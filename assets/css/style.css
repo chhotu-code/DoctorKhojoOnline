@@ -1740,6 +1740,9 @@ button.bg-danger:hover {
     margin-right: 30px;
     width: 160px;
 }
+.khojo h2{
+	color: white;
+}
 .header-contact-img {
 	display: inline-block;
 }
